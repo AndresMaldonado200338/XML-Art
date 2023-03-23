@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ObraArte>
+    <Obra>
+        <Obra1>
+            <NombreObra>La mona lisa</NombreObra>
+            <TipoObra>Pintura</TipoObra>
+            <Precio>50000 USD</Precio>
+            <Autor>
+                <Nombre>Leonardo</Nombre>
+                <Apellido>Da Vinci</Apellido>
+            </Autor>
+        </Obra1>
+        <Obra2>
+            <NombreObra>Torso de mujer</NombreObra>
+            <TipoObra>Escultura</TipoObra>
+            <Precio>30000 USD</Precio>
+            <Autor>
+                <Nombre>Fernando</Nombre>
+                <Apellido>Botero</Apellido>
+            </Autor>
+        </Obra2>
+    </Obra>
+</ObraArte>
